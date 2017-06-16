@@ -1,0 +1,2 @@
+webpackJsonp([9],{953:function(e,t,n){var i=n(27)(n(964),n(986),null,null);e.exports=i.exports},964:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={data:function(){return{id:""}},mounted:function(){this.id=this.$route.query.id}}},986:function(e,t){e.exports={render:function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",[e._v("学校id:"+e._s(e.id))])},staticRenderFns:[]}}});
+//# sourceMappingURL=9.57f430b920ce28e2b68c.js.map
